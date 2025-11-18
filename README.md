@@ -2,49 +2,42 @@
 
 **Interested in Economics · Corporate Governance & Board Networks · Applied Econometrics**
 
-Hi, I’m Mohammad – an economics interested with an M.Sc. from **Sharif University of Technology**.  
-I work at the intersection of **corporate governance, network analysis**, and **applied econometrics**, with a focus on firms listed on the **Tehran Stock Exchange**.
+Hi 👋 I’m Mohammad, an economics interested with an M.Sc. from **Sharif University of Technology**.  
+I like turning messy real-world data into clean empirical evidence and clear visualizations.
 
 ---
 
-### 🔍 Research interests
+### 🔍 What I work on
 
 - Board of directors networks & interlocking directorates  
 - Corporate governance in emerging markets  
 - Network economics & firm performance  
-- Panel data econometrics, causal inference (FE, DiD, IV)
+- Panel data & causal inference
 
 ---
 
-### 🧪 Selected code & projects
+### 🧪 Code & projects
 
-- **Board Network Visualization**  
-  Interactive visualization of board interlocks using **D3.js + React**, deployed at  
-  👉 [mohapak.github.io](https://mohapak.github.io)
+- **Personal site & board network viz**  
+  Interactive board network visualization built with **React + D3 + TypeScript**  
+  → [mohapak.github.io](https://mohapak.github.io)
 
-- **TSE Board Data / Codal Scraper**  
-  Python tools for collecting and cleaning board composition data from Iranian sources  
-  (requests/bs4, network construction, basic preprocessing).
-
-- **Econometrics & Methods Notebooks**  
-  Small, focused notebooks with examples of panel models, network centrality, and  
-  empirical workflows in Python / Stata.
+- **Data & econometrics workflows**  
+  Python / Stata projects for scraping, cleaning, and analyzing firm-level data.
 
 ---
 
-### 🛠️ Tools
+### 🛠 Tech
 
-- **Languages:** Python, R (basic), Stata, EViews  
-- **Python stack:** pandas, NumPy, statsmodels, NetworkX, Matplotlib  
-- **Econometrics:** panel data (FE/RE), limited dependent variables, basic causal inference
+- **Econometrics:** Stata, Python (pandas, NumPy, statsmodels), basic R, EViews  
+- **Networks & viz:** NetworkX, D3.js, iGraph
 
 ---
 
-### 📫 Get in touch
+### 📫 Contact
 
-- Website: **[mohapak.github.io](https://mohapak.github.io)**  
-- LinkedIn: **[linkedin.com/in/mohammad-pak](https://www.linkedin.com/in/mohammad-pak/)**  
-- GitHub: **[@mohapak](https://github.com/mohapak)**  
-- Email: **pakravanmohammad.eco@gmail.com**
+- Website: [mohapak.github.io](https://mohapak.github.io)  
+- LinkedIn: [mohammad-pak](https://www.linkedin.com/in/mohammad-pak/)  
+- Email: `pakravanmohammad.eco [at] gmail.com`
 
-I’m currently **exploring PhD opportunities** in Economics / Finance and open to research collaborations.
+I’m exploring **PhD opportunities** in Economics / Finance and open to research collaborations.
