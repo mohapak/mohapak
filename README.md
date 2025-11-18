@@ -18,12 +18,13 @@ I like turning messy real-world data into clean empirical evidence and clear vis
 
 ### 🧪 Code & projects
 
+- **TSE Board Data / Codal Scraper**  
+  Python tools for collecting and cleaning board composition data from Iranian sources  
+   → [codal_scraper](https://github.com/mohapak/codal_scraper)
+
 - **Personal site & board network viz**  
   Interactive board network visualization built with **React + D3 + TypeScript**  
   → [mohapak.github.io](https://mohapak.github.io)
-
-- **Data & econometrics workflows**  
-  Python / Stata projects for scraping, cleaning, and analyzing firm-level data.
 
 ---
 
